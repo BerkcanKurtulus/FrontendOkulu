@@ -1,0 +1,13 @@
+/* Psuedo Class */
+.link {
+  color: rgb(238, 75, 10);
+}
+.link:active {
+  color: rgb(0, 255, 13);
+}
+.link:visited {
+  color: blue;
+}
+.link:hover {
+  color: blueviolet;
+}
