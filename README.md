@@ -1,2 +1,2 @@
 # FrontendOkulu
-Coderspace Frontend Okulu Eğitim Reposu
+CoderSpace Frontend Okulu
